@@ -1,5 +1,5 @@
 ### Hi my name is Rybalko Yakov
-and I am a developer
+and I am developer
 ***
 
 [//]: # (<img src="https://komarev.com/ghpvc/?username=rybalkoyakov&style=flat-square&color=blue" alt=""/>)
